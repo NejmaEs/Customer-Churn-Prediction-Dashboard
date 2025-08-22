@@ -16,4 +16,4 @@ Key Features:
   Tech Stack: Power BI, DAX, Power Query, Excel/CSV data sources
 
 ![Customer Churn Dashboard Page 1](https://github.com/NejmaEs/Customer-Churn-Prediction-Dashboard/blob/main/Screenshot%202025-08-22%20083238.png)
-![Customer Churn Dashboard Page 2](images/dashboard_page2.png)
+![Customer Churn Dashboard Page 2](https://github.com/NejmaEs/Customer-Churn-Prediction-Dashboard/blob/main/Screenshot%202025-08-22%20083305.png)
